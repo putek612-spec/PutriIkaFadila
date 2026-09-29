@@ -1,0 +1,5 @@
+list_1 = [10, 70, 20]
+list_2 = [88, 77]
+list_3 = list_1 + list_2
+print(list_3)
+# ouput [10, 70, 20, 88, 87]
